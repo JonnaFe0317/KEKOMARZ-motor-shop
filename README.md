@@ -91,6 +91,10 @@ We welcome contributions from the community! To contribute, follow these steps:
 
 6. *Create a pull request:*
     - Open a pull request from your forked repository to the main repository.
+  
+
+## Screenshots 
+![f9743d46-0200-4cf7-a4fc-8dc2c6611479](https://github.com/user-attachments/assets/e4e1381b-0cee-4a63-aa42-be3f1e144191)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
