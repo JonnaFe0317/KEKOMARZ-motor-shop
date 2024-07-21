@@ -22,7 +22,7 @@ To install and run this application locally, follow these steps:
 
 1. *Clone the repository:*
     
-    git clone https://github.com/yourusername/motor-shop-store.git
+    git clone https://github.com/JonnaFe0317/KEKOMARZ-motor-shop.git
     cd motor-shop-store
     
 
@@ -45,7 +45,7 @@ env
     npm start
     
 
-The application will be available at http://localhost:3000.
+The application will be available at 
 
 ## Usage
 1. *Register/Login:*
@@ -71,7 +71,7 @@ We welcome contributions from the community! To contribute, follow these steps:
 
 2. *Clone your forked repository:*
     
-    git clone https://github.com/yourusername/motor-shop-store.git
+    git clone https://github.com/JonnaFe0317/KEKOMARZ-motor-shop.git
     
 
 3. *Create a new branch:*
